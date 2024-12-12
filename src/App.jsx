@@ -5,7 +5,7 @@ const App = () => {
 	return (
 		<div>
 			<GlobalStyles />
-			<h1>Curso de React</h1>
+			<h1>React</h1>
 			<Button color='steelblue'>Click Me!</Button>
 			<Button color='#f0f'>Click Me!</Button>
 		</div>
